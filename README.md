@@ -20,7 +20,12 @@ L'application **contient des bugs intentionnels**. Votre travail : les identifie
 
 ### 2.1 Récupérer le code
 
-Ne pas faire `git clone`. Prendre le dossier `app-buggee-42/` tel qu'il vous est fourni.
+```bash
+git clone https://github.com/guillaumecreation/app-buggee-42.git
+cd app-buggee-42
+```
+
+Vous pouvez aussi télécharger le ZIP depuis la page GitHub si vous préférez (bouton "Code" → "Download ZIP").
 
 ### 2.2 Installer les dépendances
 
