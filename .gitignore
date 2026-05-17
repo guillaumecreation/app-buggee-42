@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.log
+.DS_Store
+
+# Documents confidentiels formateur — ne JAMAIS commit ni distribuer
+GUIDE_FORMATEUR.md
+FICHE_RECEPTION_LIVRABLES.html
